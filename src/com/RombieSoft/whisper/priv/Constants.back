@@ -1,0 +1,9 @@
+package com.RombieSoft.whisper.priv;
+
+public class Constants {
+    final public static String deviceId = "00000000-4426-2d31-bb83-6db31fbba8d8";
+    final public static String trackId = "UA-29122343-2";
+    final public static String admobId = "a14f3e6f72d50a5";
+    final public static String admobTestDeviceId = "CF4273234667D95A0FD302374BFC9AF0";
+    final public static int key = 0x1b;
+}
